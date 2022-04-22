@@ -37,4 +37,6 @@ Ideas for videos on YouTube
 * AWS
 * Data Structures & Algorithms
 * Solving Leetcode Problems (or exercism.org)
+* Useful libraries
+* redis
 * to be continued
