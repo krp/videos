@@ -39,4 +39,8 @@ Ideas for videos on YouTube
 * Solving Leetcode Problems (or exercism.org)
 * Useful libraries
 * redis
+* Building a chess game with Pyxel
+* Brute-forcing 2FA with different languages and benchmarking them.
+* Creating a small app that increases mouse cursor size when it's wiggled (like on MacOS)
+* Creating an app that's good for screen annotation.
 * to be continued
