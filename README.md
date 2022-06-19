@@ -25,6 +25,7 @@ Ideas for videos on YouTube
 * Assembly Language
 * OllyDbg / x64 Debug
 * Modern version of Lena's reversing tutorials
+* Using Ghidra
 * CrackMe's
 * TryHackMe
 * HackTheBox
@@ -36,11 +37,19 @@ Ideas for videos on YouTube
 * Distributed Systems Basics
 * AWS
 * Data Structures & Algorithms
-* Solving Leetcode Problems (or exercism.org)
+* Solving Leetcode Problems (or codewars/exercism.org)
 * Useful libraries
 * redis
 * Building a chess game with Pyxel
 * Brute-forcing 2FA with different languages and benchmarking them.
-* Creating a small app that increases mouse cursor size when it's wiggled (like on MacOS)
-* Creating an app that's good for screen annotation.
+* Small app that increases mouse cursor size when it's wiggled (like on MacOS)
+* App that's good for screen annotation.
+* Bookmark/tab search+indexing browser extension
+* Recommendation system / crawler that scans common sites for interesting links.
+* Dynamic/tiling windows manager for windows (like a better version of the FancyZones Powertoy)
+* Paint app using pyxel
+* Algorithmic visualizations using pyxel
+* Raycaster with pyxel
+* Raytracer with pyxel (performance will no doubt be crap)
+* Certification Pathways
 * to be continued
