@@ -52,4 +52,5 @@ Ideas for videos on YouTube
 * Raycaster with pyxel
 * Raytracer with pyxel (performance will no doubt be crap)
 * Certification Pathways
+* Browser extension that automatically categories and groups tabs by core topic
 * to be continued
