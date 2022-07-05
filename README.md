@@ -53,4 +53,5 @@ Ideas for videos on YouTube
 * Raytracer with pyxel (performance will no doubt be crap)
 * Certification Pathways
 * Browser extension that automatically categories and groups tabs by core topic
+* Personalized search engine that scrapes/indexes/archives sites.
 * to be continued
