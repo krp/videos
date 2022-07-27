@@ -54,4 +54,5 @@ Ideas for videos on YouTube
 * Certification Pathways
 * Browser extension that automatically categories and groups tabs by core topic
 * Personalized search engine that scrapes/indexes/archives sites.
+* App that reproduces logistic deliveries of packages (using microservices). e.g. Message passing across multiple systems.
 * to be continued
