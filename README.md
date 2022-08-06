@@ -56,4 +56,5 @@ Ideas for videos on YouTube
 * Personalized search engine that scrapes/indexes/archives sites.
 * App that reproduces logistic deliveries of packages (using microservices). e.g. Message passing across multiple systems.
 * Simple games using pyxel
+* Creating a bittorrent client in Python: https://github.com/codecrafters-io/build-your-own-x
 * to be continued
