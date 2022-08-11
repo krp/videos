@@ -58,4 +58,5 @@ Ideas for videos on YouTube
 * Simple games using pyxel
 * Creating a bittorrent client in Python: https://github.com/codecrafters-io/build-your-own-x
 * http://markuseliasson.se/article/bittorrent-in-python/
+* Pyxel gravitational simulator
 * to be continued
