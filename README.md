@@ -59,4 +59,7 @@ Ideas for videos on YouTube
 * Creating a bittorrent client in Python: https://github.com/codecrafters-io/build-your-own-x
 * http://markuseliasson.se/article/bittorrent-in-python/
 * Pyxel gravitational simulator
+* Streaming site like Spotify/Tidal/Netflix/YouTube that uses websockets & allows skipping with HLS or equivalent
+* Scheduling feature (like Outlook calendar) which allows people to choose available times and suggests times.
+* Airport scheduling software for handling how planes arrive/leave/etc, or a luggage routing system using microservices (overly complex but could be fun).
 * to be continued
