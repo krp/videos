@@ -64,4 +64,5 @@ Ideas for videos on YouTube
 * Airport scheduling software for handling how planes arrive/leave/etc, or a luggage routing system using microservices (overly complex but could be fun).
 * to be continued
 * Chrome extension that allows syncing music/videos for different people. Lots of interesting stuff involved with it. Should sync both videos & music and detect when they go out of sync. Backend in Go.
-
+* Using Next.js
+* TLA+
