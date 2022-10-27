@@ -66,3 +66,4 @@ Ideas for videos on YouTube
 * Chrome extension that allows syncing music/videos for different people. Lots of interesting stuff involved with it. Should sync both videos & music and detect when they go out of sync. Backend in Go.
 * Using Next.js
 * TLA+
+* Musicbot AI that scrapes mixes, tracklists, uses shazam/etc to identify tracks, beat/key detection & matching, demucs for real-time stems, peer-to-peer for streaming to friends, recommendation system that learns from liked tracks, tidal/etc for suggested similar tracks for constructing mixes, identifying key parts of tracks (chorus, breakdown, etc)
