@@ -66,6 +66,7 @@ Ideas for videos on YouTube
 * Using Next.js
 * TLA+
 * Musicbot AI that scrapes mixes, tracklists, uses shazam/etc to identify tracks, beat/key detection & matching, demucs for real-time stems, peer-to-peer for streaming to friends, recommendation system that learns from liked tracks, tidal/etc for suggested similar tracks for constructing mixes, identifying key parts of tracks (chorus, breakdown, etc)
+* AI-wrapped terminal that interprets errors and responds with a solution (like ChatGPT)
 
 
 
